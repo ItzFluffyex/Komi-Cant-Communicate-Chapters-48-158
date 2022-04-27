@@ -1,0 +1,17 @@
+{
+  "title": "Komi Can't Communicate",
+  "description": "<manga description>",
+  "artist": "Oda Tomohito",
+  "author": "Oda Tomohito",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "48": {
+      "title": "Video Games",
+      "volume": "4",
+      "groups": {
+        "N/A": "/proxy/api/imgur/chapter/lijsESF/"
+      },
+      "last_updated": "N/A"
+    },
+  }
+}
