@@ -7,7 +7,9 @@
   "chapters": {
     "48": {
       "groups": {
-        "Imgur": "/proxy/api/imgur/chapter/lijsESF/"
+        "Imgur": [
+        "/proxy/api/imgur/chapter/lijsESF/"
+        ]
       },
       "last_updated": "1616368746",
       "title": "Intro",
