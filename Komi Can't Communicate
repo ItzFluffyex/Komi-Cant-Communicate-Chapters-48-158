@@ -1,9 +1,9 @@
 {
   "title": "Komi Can't Communicate",
-  "description": "<manga description>",
+  "description": "TBA",
   "artist": "Oda Tomohito",
   "author": "Oda Tomohito",
-  "cover": "<mangacoverurl.jpg>",
+  "cover": "https://uploads.mangadex.org/covers/a96676e5-8ae2-425e-b549-7f15dd34a6d8/03fb4ef9-ab79-48c3-8918-5cc5f8d676d2.png",
   "chapters": {
     "48": {
       "title": "Video Games",
@@ -11,7 +11,9 @@
       "groups": {
         "N/A": "/proxy/api/imgur/chapter/lijsESF/"
       },
-      "last_updated": "N/A"
+      "last_updated": "1616368746"
+      "title": "Intro",
+      "volume": "1"
     },
   }
 }
